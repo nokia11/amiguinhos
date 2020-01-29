@@ -103,3 +103,9 @@ https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
 https://d3dwqawq9yp7h.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel
 https://d3dwqawq9yp7h.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+
+#EXTINF::-1 tvg-logo="https://geekdama.com.br/wp-content/uploads/2015/06/fear-the-walking-dead-logo-novo.jpg" group-title="FEAR THE WALKING DEAD",FTWD
+#EXTINF:-1 type="video" group-title="FEAR THE WALKING DEAD",FTWD T1|EP1
+https://r6---sn-b8u-bg0l.googlevideo.com/videoplayback?expire=1580365713&ei=EQcyXo28DfGOzLUPkbmu-AI&ip=2804:7f1:2280:eecd:c56e:e89a:4f60:64d7&id=9ab34018a1d86aa5&itag=18&source=blogger&mm=31&mn=sn-b8u-bg0l&ms=au&mv=m&mvi=5&pl=36&susc=bl&mime=video/mp4&dur=2668.553&lmt=1578425125607922&mt=1580336802&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ALgxI2wwRQIhAN_MkiIg-_nr9DE86yvuTjYfLYKRMrkBsRrOpe4o63S8AiB_dnGbMQg0Is8WPsI5sBCYF8gD3m_EJJN6hJcGX5LVhQ%3D%3D&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRAIgGH4sTtzxuz1NVhqjNM9cbUfN3B1LPWlUQ1HXK3Cg6LoCIF953IPxxGN6eobimLLE4jIGG3og8L0FLFTXoBpp5xFP&cpn=x2m8R2vJiDOu7Zz6&c=WEB_EMBEDDED_PLAYER&cver=20200127
+#EXTINF:-1 type="video" group-title="FEAR THE WALKING DEAD",FTWD T1|EP2
+http://vd.ec.cx/vd/dd/RC/RCServer01/vid ... 01EP02.mp4
