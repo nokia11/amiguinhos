@@ -14,7 +14,7 @@ https://d3dwqawq9yp7h.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
 https://d3dwqawq9yp7h.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
-https://d3dwqawq9yp7h.cloudfront.net/hls1/espn.m3u8?wmsAuthSign=
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
 https://d3dwqawq9yp7h.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
