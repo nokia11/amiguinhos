@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
-https://d3jex98m0dekhe.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
+https://d3jex98m0dekhe.cloudfront.net/hls1/amc.m3u8
 #EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
 https://d3jex98m0dekhe.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB
@@ -12,13 +12,13 @@ https://d3jex98m0dekhe.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel " tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel 
 https://d3jex98m0dekhe.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
-https://d3jex98m0dekhe.cloudfront.net/hls1/espnbrasil.m3u8?wmsAuthSign=
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN 2" tvg-logo="https://i.ibb.co/jfQwnhV/espn2.png" group-title="Esporte",ESPN 2
-https://d3jex98m0dekhe.cloudfront.net/hls1/espn2.m3u8?wmsAuthSign=
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
-https://d3jex98m0dekhe.cloudfront.net/hls1/espnextra.m3u8?wmsAuthSign=
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
 https://d3jex98m0dekhe.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 1" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1
