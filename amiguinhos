@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
-https://d3jex98m0dekhe.cloudfront.net/hls1/amc.m3u8
+https://d3jex98m0dekhe.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
 https://d3jex98m0dekhe.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB
