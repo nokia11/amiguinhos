@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="AMC" tvg-logo="https://i.ibb.co/g7FpZ74/amc.png" group-title="Filme e Serie",AMC
-https://d3jex98m0dekhe.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
-https://d3jex98m0dekhe.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/animalplanet.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB
-https://d3jex98m0dekhe.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
-https://d3jex98m0dekhe.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
-https://d3jex98m0dekhe.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel " tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel 
-https://d3jex98m0dekhe.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
@@ -20,86 +20,86 @@ https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
-https://d3jex98m0dekhe.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 1" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1
-https://d3jex98m0dekhe.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxpremium1.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 2" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="Filme e Serie",Fox Premium 2
-https://d3jex98m0dekhe.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxpremium2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Fox Sports" tvg-logo="https://i.ibb.co/4tZV54w/foxsportshd.png" group-title="Esporte",Fox Sports
-https://d3jex98m0dekhe.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxsports1.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Fox Sports 2" tvg-logo="https://i.ibb.co/QXczkxV/foxsports2hd.png" group-title="Esporte",Fox Sports 2
-https://d3jex98m0dekhe.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/foxsports2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="FX" tvg-logo="https://i.ibb.co/BZxM22v/fxb.png" group-title="Filme e Serie",FX
-https://d3jex98m0dekhe.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/fx.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Globo" tvg-logo="https://i.ibb.co/kxdMkfw/globosp.png" group-title="TV Aberta",Globo
-https://d3jex98m0dekhe.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews
-https://d3jex98m0dekhe.cloudfront.net/hls1/globonews.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/globonews.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO
-https://d3jex98m0dekhe.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbo.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="HBO 2" tvg-logo="https://i.ibb.co/YBJqynj/hbo2b.png" group-title="Filme e Serie",HBO 2
-https://d3jex98m0dekhe.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbo2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="HBO Family" tvg-logo="https://i.ibb.co/kxNkVc1/hbofamily.png" group-title="Filme e Serie",HBO Family
-https://d3jex98m0dekhe.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbofamily.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="HBO Plus" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="Filme e Serie",HBO Plus
-https://d3jex98m0dekhe.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/hboplus.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="Filme e Serie",HBO Signature
-https://d3jex98m0dekhe.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/hbosignature.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="History" tvg-logo="https://i.ibb.co/vXXFvMF/historyb.png" group-title="Documentario",History
-https://d3jex98m0dekhe.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/history.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="History 2" tvg-logo="https://i.ibb.co/b6w6MWr/h2.png" group-title="Documentario",History 2
-https://d3jex98m0dekhe.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/history2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="MTV" tvg-logo="https://i.ibb.co/W5VwW2N/mtvb.png" group-title="Entretenimento e Musica",MTV
-https://d3jex98m0dekhe.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/mtv.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Multishow" tvg-logo="https://i.ibb.co/R0nqMq0/multishow.png" group-title="Entretenimento e Musica",Multishow
-https://d3jex98m0dekhe.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/multishow.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="National Geographic" tvg-logo="https://i.ibb.co/q1gGdrD/natgeo.png" group-title="Documentario",National Geographic
-https://d3jex98m0dekhe.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild
-https://d3jex98m0dekhe.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
 https://d1cy34jllwtrns.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2
-https://d3jex98m0dekhe.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3
-https://d3jex98m0dekhe.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere3.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 4" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4
-https://d3jex98m0dekhe.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere4.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 5" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5
-https://d3jex98m0dekhe.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere5.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 6" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6
-https://d3jex98m0dekhe.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere6.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7
-https://d3jex98m0dekhe.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiere7.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record
-https://d3jex98m0dekhe.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/recordsp.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Record News" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="Notícia",Record News
-https://d3jex98m0dekhe.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/recordnews.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT
-https://d3jex98m0dekhe.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Space" tvg-logo="https://i.ibb.co/pwRK1xT/spacehd.png" group-title="Filme e Serie",Space
-https://d3jex98m0dekhe.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/space.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
-https://d3jex98m0dekhe.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/sportv1.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
-https://d3jex98m0dekhe.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/sportv2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3
-https://d3jex98m0dekhe.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/sportv3.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT
-https://d3jex98m0dekhe.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/tnt.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series
-https://d3jex98m0dekhe.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/tntseries.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action
-https://d3jex98m0dekhe.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecineaction.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Cult" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="Filme e Serie",Telecine Cult
-https://d3jex98m0dekhe.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinecult.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Fun" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="Filme e Serie",Telecine Fun
-https://d3jex98m0dekhe.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinefun.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Pipoca" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="Filme e Serie",Telecine Pipoca
-https://d3jex98m0dekhe.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinepipoca.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Premium" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="Filme e Serie",Telecine Premium
-https://d3jex98m0dekhe.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinepremium.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Touch" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="Filme e Serie",Telecine Touch
-https://d3jex98m0dekhe.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/telecinetouch.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel
-https://d3jex98m0dekhe.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/warner.m3u8?wmsAuthSign=
