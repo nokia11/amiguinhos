@@ -58,7 +58,7 @@ https://d3jex98m0dekhe.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Natgeo Wild" tvg-logo="https://i.ibb.co/HCQCNbY/natgeowild.png" group-title="Documentario",Natgeo Wild
 https://d3jex98m0dekhe.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
-https://d3jex98m0dekhe.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+https://d1cy34jllwtrns.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2
 https://d3jex98m0dekhe.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3
