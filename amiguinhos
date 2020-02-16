@@ -59,6 +59,8 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeo.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/natgeowild.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
+https://video.twimg.com/ext_tw_video/1228761366015639552/pu/pl/480x848/qNmv5A4M6u-hd0A2.m3u8
 #EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/premiere2.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3
