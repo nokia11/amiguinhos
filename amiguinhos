@@ -11,6 +11,10 @@ https://d1d41x3lh2ujlh.cloudfront.net/hls1/cartoon.m3u8?wmsAuthSign=
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel " tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel 
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="EI Plus" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="ESPORTES",ESPORTE INTERATIVO
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_1200.m3u8
+#EXTINF:-1 type="stream" tvg-id="EI Plus 2" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="ESPORTES",ESPORTE INTERATIVO
+https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN" tvg-logo="https://i.ibb.co/b3V4fX8/espn.png" group-title="Esporte",ESPN
@@ -19,10 +23,6 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-b.m3u8
 https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN Extra" tvg-logo="https://i.ibb.co/QbCjwYR/espnextra.png" group-title="Esporte",ESPN Extra
 https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
-#EXTINF:-1 type="stream" tvg-id="Esporte Interativo" tvg-logo="http://geekchic.com.br/wp-content/uploads/2015/08/Esporte-Interativo.jpg" group-title="ESPORTES",ESPORTE INTERATIVO
-https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_1200.m3u8
-#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 2" tvg-logo="http://geekchic.com.br/wp-content/uploads/2015/08/Esporte-Interativo.jpg" group-title="ESPORTES",ESPORTE INTERATIVO
-https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8
 #EXTINF:-1 type="stream" tvg-id="Fox" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="Filme e Serie",Fox
 https://d1d41x3lh2ujlh.cloudfront.net/hls1/fox.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 1" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Filme e Serie",Fox Premium 1
