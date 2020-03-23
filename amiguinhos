@@ -3,17 +3,21 @@
 https://nimbleserver.canais.ink/a/hls1/amc.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/rmdFf4V/animalplanet2019.png" group-title="Documentario",Animal Planet
 https://nimbleserver.canais.ink/a/hls1/animalplanet.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="BBB" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB
+#EXTINF:-1 type="stream" tvg-id="BBB: Principal" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Principal
 https://nimbleserver.canais.ink/a/hls1/bbb.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="BBB: Quarto Ceu" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Quarto Ceu
+https://nimbleserver.canais.ink/a/hls1/bbbnew.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="BBB: Quarto Vila" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Entretenimento",BBB: Quarto Vila
+https://nimbleserver.canais.ink/a/hls1/bbb4.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Cartoon Network" tvg-logo="https://i.ibb.co/r0mmt10/cartoonnetworkb.png" group-title="Infantil",Cartoon Network
 https://nimbleserver.canais.ink/a/hls1/cartoon.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
 https://nimbleserver.canais.ink/a/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel 
 https://nimbleserver.canais.ink/a/hls1/discovery.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Esporte Interativo" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="ESPORTES",EI Plus
+#EXTINF:-1 type="stream" tvg-id="Esporte Interativo" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="Esporte",EI Plus
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_1200.m3u8
-#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 2" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="ESPORTES",EI Plus 2
+#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 2" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="Esporte",EI Plus 2
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
