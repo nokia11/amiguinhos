@@ -112,10 +112,10 @@ https://nimblestream.canais.ink/a/hls1/telecinetouch.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Warner Channel" tvg-logo="https://i.ibb.co/jRzKhty/warnerchannel.png" group-title="Filme e Serie",Warner Channel
 https://nimblestream.canais.ink/a/hls1/warner.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="CANAIS ADULTO",Sexy Hot
-https://nimblestream.canais.ink/a/sexhot.m3u8?wmsAuthSign=
+https://nimblestream.canais.ink/a/hls1/sexhot.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Erotic" tvg-logo="http://www.iptvselling-team.com/wp-content/uploads/2018/12/pink_erotic-1-2.jpg" group-title="CANAIS ADULTO",Erotic
-https://nimblestream.canais.ink/a/erotic.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="Pink O Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Pink_M_logo.png/225px-Pink_M_logo.png" group-title="CANAIS ADULTO",Pink O Tv
-https://nimblestream.canais.ink/a/pinko.m3u8?wmsAuthSign=
+https://nimblestream.canais.ink/a/hls1/erotic.m3u8?wmsAuthSign=
+#EXTINF:-1 tvg-id="" tvg-name="Pink O Tv" tvg-logo="https://www.pinko.tv/image/pinko-tv-logo.png" group-title="CANAIS ADULTO",Pink O Tv
+https://nimblestream.canais.ink/a/hls1/pinko.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="" tvg-name="Evilangel TV" tvg-logo="http://www.iptvselling-team.com/wp-content/uploads/2018/12/evil-angel-tv.jpg" group-title="CANAIS ADULTO",Evilangel TV
-https://nimblestream.canais.ink/a/evilangel.m3u8?wmsAuthSign=
+https://nimblestream.canais.ink/a/hls1/evilangel.m3u8?wmsAuthSign=
