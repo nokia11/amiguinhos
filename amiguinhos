@@ -16,7 +16,7 @@ https://nimblestream.canais.ink/a/hls1/combate.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Discovery Channel" tvg-logo="https://i.ibb.co/8x3TjWH/discoverychannelb.png" group-title="Documentario",Discovery Channel 
 https://nimblestream.canais.ink/a/hls1/discovery.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Esporte Interativo" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="Esporte",EI Plus
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
+https://mdstrmpmd-a.akamaihd.net:443/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_1200.m3u8
 #EXTINF:-1 type="stream" tvg-id="Esporte Interativo 2" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="Esporte",EI Plus 2
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
