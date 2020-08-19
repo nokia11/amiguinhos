@@ -45,9 +45,9 @@ https://rcstream.belugacdn.link/a/hls1/fx.m3u8?wmsAuthSign=
 https://rcstream.belugacdn.link/a/hls1/bobosp.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="GloboNews" tvg-logo="https://i.ibb.co/Y0zj4xn/globonews.png" group-title="Notícia",GloboNews
 https://rcstream.belugacdn.link/a/hls1/globonews.m3u8?wmsAuthSign=
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CENTRAL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title=Notícia","TV Aberta",Globo
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CENTRAL" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="TV Aberta",Globo Eptv Central
 http://br4.2tv.me:80/vanessa567/456568/4593
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title=Notícia","TV Aberta",Globo
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS" tvg-logo="https://app.neoweb.tv/assets/img/tv2/globo-4qcA33.png" group-title="TV Aberta",Globo Eptv São Carlos
 http://br4.2tv.me:80/vanessa567/456568/3861
 #EXTINF:-1 type="stream" tvg-id="HBO" tvg-logo="https://i.ibb.co/7tz9V3n/hbo.png" group-title="Filme e Serie",HBO
 https://rcstream.belugacdn.link/a/hls1/hbo.m3u8?wmsAuthSign=
@@ -85,9 +85,9 @@ https://rcstream.belugacdn.link/a/hls1/premiere5.m3u8?wmsAuthSign=
 https://rcstream.belugacdn.link/a/hls1/premiere6.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7
 https://rcstream.belugacdn.link/a/hls1/premiere7.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="TV Aberta","Notícia",Record
+#EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="TV Aberta",Record
 http://br4.2tv.me:80/vanessa567/456568/313
-#EXTINF:-1 type="stream" tvg-id="Record SP" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta","Notícia",Record SP
+#EXTINF:-1 type="stream" tvg-id="Record SP" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record SP
 https://rcstream.belugacdn.link/a/hls1/recordsp.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Record News" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="TV Aberta","Notícia",Record News
 https://rcstream.belugacdn.link/a/hls1/recordnews.m3u8?wmsAuthSign=
