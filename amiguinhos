@@ -19,7 +19,7 @@ https://rcstream.belugacdn.link/a/hls1/discovery.m3u8?wmsAuthSign=
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_1200.m3u8
 #EXTINF:-1 type="stream" tvg-id="Esporte Interativo 2" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="Esporte",EI Plus 2
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_1200.m3u8
-#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 3" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="Esporte",EI Plus 2
+#EXTINF:-1 type="stream" tvg-id="Esporte Interativo 3" tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="Esporte",EI Plus 3
 https://mdstrmpmd-a.akamaihd.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8
 #EXTINF:-1 type="stream" tvg-id="ESPN Brasil" tvg-logo="https://i.ibb.co/55mfLPx/espnbrasilb.png" group-title="Esporte",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
@@ -85,13 +85,13 @@ https://rcstream.belugacdn.link/a/hls1/premiere5.m3u8?wmsAuthSign=
 https://rcstream.belugacdn.link/a/hls1/premiere6.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Premiere 7" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7
 https://rcstream.belugacdn.link/a/hls1/premiere7.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="TV Aberta",Record
+#EXTINF:-1 type="stream" tvg-id="Record" tvg-logo="https://app.neoweb.tv/assets/img/tv2/record.png" group-title="TV Aberta","Notícia",Record
 http://br4.2tv.me:80/vanessa567/456568/313
-#EXTINF:-1 type="stream" tvg-id="Record SP" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta",Record
+#EXTINF:-1 type="stream" tvg-id="Record SP" tvg-logo="https://i.ibb.co/NyZ0TgN/recordtv.png" group-title="TV Aberta","Notícia",Record SP
 https://rcstream.belugacdn.link/a/hls1/recordsp.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="Record News" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="Notícia",Record News
+#EXTINF:-1 type="stream" tvg-id="Record News" tvg-logo="https://i.ibb.co/gjYJCG8/recordnewsb.png" group-title="TV Aberta","Notícia",Record News
 https://rcstream.belugacdn.link/a/hls1/recordnews.m3u8?wmsAuthSign=
-#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta",SBT
+#EXTINF:-1 type="stream" tvg-id="SBT" tvg-logo="https://i.ibb.co/2yZqPRz/sbt.png" group-title="TV Aberta","Notícia",SBT
 https://rcstream.belugacdn.link/a/hls1/sbt.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Space" tvg-logo="https://i.ibb.co/pwRK1xT/spacehd.png" group-title="Filme e Serie",Space
 https://rcstream.belugacdn.link/a/hls1/space.m3u8?wmsAuthSign=
@@ -103,6 +103,8 @@ https://rcstream.belugacdn.link/a/hls1/sportv2.m3u8?wmsAuthSign=
 https://rcstream.belugacdn.link/a/hls1/sportv3.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="TNT" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT
 https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?wmsAuthSign=
+#EXTINF:-1 type="stream" tvg-id="TNT 2" tvg-logo="https://i.ibb.co/BLmwXmN/tnt.png" group-title="Filme e Serie",TNT 2
+http://br4.2tv.me:80/vanessa567/456568/407
 #EXTINF:-1 type="stream" tvg-id="TNT Series" tvg-logo="https://i.ibb.co/KVMQPWv/tntseries.png" group-title="Filme e Serie",TNT Series
 https://rcstream.belugacdn.link/a/hls1/tntseries.m3u8?wmsAuthSign=
 #EXTINF:-1 type="stream" tvg-id="Telecine Action" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="Filme e Serie",Telecine Action
